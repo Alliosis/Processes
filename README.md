@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the UI/UX workflow for the Synera project. This document outlines the steps and processes we follow to ensure a user-centered design approach. Our goal is to create an intuitive and engaging user experience through iterative design and continuous feedback.
+Welcome to the UI/UX workflow for the project. This document outlines the steps and processes we follow to ensure a user-centered design approach. Our goal is to create an intuitive and engaging user experience through iterative design and continuous feedback.
 
 ## Goals and Objectives
 
